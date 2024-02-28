@@ -1,3 +1,5 @@
+-- Chinmayi Rane -----
+
 CREATE DATABASE IF NOT EXISTS salesDataWalmart;
 
 CREATE TABLE IF NOT EXISTS sales(
